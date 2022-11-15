@@ -1,1 +1,1 @@
-# 52_programming_problems
+# 52 programming problem
