@@ -1,1 +1,1 @@
-# 52 programming problem .
+# 52 problems.
